@@ -1,16 +1,15 @@
-### Hi there 👋
+### Devin C. Lane
 
-<!--
-**DevinCLane/devinclane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, my name is Devin Lane. I'm a creative developer with a background in music, writing, and education. 
 
-Here are some ideas to get you started:
+Current Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Creative Developer/Project Manager - full-stack development, music & audio, building tools for creativity. Winner of the 2020 Google Research and Gray Area Hackathon for [Dear Diary](https://deardiary.ai/) 
+
+⚡️ Founder/Principal at [Lightning Lessons](https://www.lightninglessons.com/) - 10+ years connecting people to themselves and their community via stellar remote guitar and music coaching. Inspiring musical creativity through educational YouTube content. Thousands of successful guitar lessons taught. 
+
+🎶 Songwriter/Producer at [Gentle Return](https://www.gentlereturn.com/) - writing, recording, performing weird pop indie rock. Owning the full project pipeline of audio production, from idea to release. Programming [custom audiovisuals in Max](https://youtu.be/k2cIA8emnAs), creating videos on YouTube. Crafting custom composition and sound design for film, podcasts, brands, and non-profits.
+
+📻 Local Music Director at [BFF.fm](https://bff.fm/) - collaboratively building initiatives to empower local bands at the awesome community-powered radio station BFF.fm
+
+🌍 Artist Engagement Manager at [The ClimateMusic Project](https://climatemusic.org/) - inspiring action on the climate crisis through data-driven music.
